@@ -1,1 +1,12 @@
-</Margin = 10px>
+body{font-family:Arial,Sans-Serif;
+margin:0;
+padding:0
+background-colour:#f4f4f9;
+color:#333;}
+Header{background-colour:#6c63ff;
+colour:blue
+padding:20px;
+text align:center;}
+p{font-size 16px;
+Line Height:1.6;
+margin:20px;}
